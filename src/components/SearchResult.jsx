@@ -58,7 +58,7 @@ const SearchResult = () => {
         </div>
         <div className="text-white/75 py-3 text-md font-bold bg-black text-center border-t-[1px] rounded-lg border-[#2a58a8] sticky bottom-0">
           Made by Prabhu!!
-          <FiHeart className="inline ml-1 fill-red-500" />{" "}
+          
         </div>
       </div>
     </div>
